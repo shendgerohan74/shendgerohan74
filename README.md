@@ -51,6 +51,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shendgerohan74)  
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shendgerohan74)  
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shendgerohan74@gmail.com)  
+[![HackerRank](https://img.shields.io/badge/HackerRank-%2300EA64.svg?&style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/shendgerohan33)
 
 ---
 
