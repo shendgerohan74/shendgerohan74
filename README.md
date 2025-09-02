@@ -12,6 +12,14 @@
 
 ---
 
+<p align="center">
+  <img src="https://media.tenor.com/whgQwNlVvNkAAAAj/xero-code.gif" alt="Demo" width="480"><br/>
+  <em>My cool GIF</em>
+</p>
+
+
+---
+
 ## 🛠️ Skills  
 
 ### 💻 Programming Languages  
